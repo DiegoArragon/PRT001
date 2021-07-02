@@ -65,8 +65,8 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Button Text by Mario",
+            "button_link": "shopify:\/\/products\/generic-womens-stylish"
           }
         }
       },
@@ -76,8 +76,9 @@
         "button"
       ],
       "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/fashion-image-small.jpg",
+        "height": "small",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     }
