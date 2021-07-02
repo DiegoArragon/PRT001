@@ -96,16 +96,16 @@
         "1625238511f7519822-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "morgan-womens-short",
             "secondary_background": false,
-            "second_image": false,
+            "second_image": true,
             "image_padding": false
           }
         },
         "1625238511f7519822-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "collection01",
             "image_padding": false,
             "color_scheme": "background-1"
           }
